@@ -39,6 +39,14 @@
    ````bash
    python main.py
 
+## Screenshots 📸
+
+![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191844437547040778/Screenshot_2024-01-02_214019.png?ex=65a6eaa1&is=659475a1&hm=4e750d76597f6d5dff17eac97f84953c41a37f81348d1d1f1f488ed923424479&)
+1. Menu du jeu
+
+![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191844437186318497/Screenshot_2024-01-02_214048.png?ex=65a6eaa1&is=659475a1&hm=b67c7cf0cb7e30f4b9b902bc85dd1fb4269a48669d975c7dd319a1b26032f1aa&)
+2. En jeu
+
 ## Remerciements 🙌
 Créé avec Pygame.
 
