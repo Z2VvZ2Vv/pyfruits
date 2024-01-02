@@ -41,11 +41,11 @@
 
 ## Screenshots 📸
 
-![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191844437547040778/Screenshot_2024-01-02_214019.png?ex=65a6eaa1&is=659475a1&hm=4e750d76597f6d5dff17eac97f84953c41a37f81348d1d1f1f488ed923424479&)
+![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191845748904579185/Screenshot_2024-01-02_214019.png?ex=65a6ebd9&is=659476d9&hm=f6980ac58a50a0b43c3aa44e90ee3510d85b8cae3c97bd7ed3b26129b914adbe&)
 
 1. Menu du jeu
 
-![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191844437186318497/Screenshot_2024-01-02_214048.png?ex=65a6eaa1&is=659475a1&hm=b67c7cf0cb7e30f4b9b902bc85dd1fb4269a48669d975c7dd319a1b26032f1aa&)
+![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191845749206560858/Screenshot_2024-01-02_214048.png?ex=65a6ebda&is=659476da&hm=fff0c265711f13054623c12423005cf4c21d7e539523c5fc97ad986c31225f6e&)
 
 2. En jeu
 
