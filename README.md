@@ -41,11 +41,11 @@
 
 ## Screenshots 📸
 
-![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191845748904579185/Screenshot_2024-01-02_214019.png?ex=65a6ebd9&is=659476d9&hm=f6980ac58a50a0b43c3aa44e90ee3510d85b8cae3c97bd7ed3b26129b914adbe&)
+![alt text](https://raw.githubusercontent.com/Z2VvZ2Vv/pyfruits/refs/heads/main/.assets/image.png)
 
 1. Menu du jeu
 
-![alt text](https://cdn.discordapp.com/attachments/1191844194373865626/1191845749206560858/Screenshot_2024-01-02_214048.png?ex=65a6ebda&is=659476da&hm=fff0c265711f13054623c12423005cf4c21d7e539523c5fc97ad986c31225f6e&)
+![alt text](https://raw.githubusercontent.com/Z2VvZ2Vv/pyfruits/refs/heads/main/.assets/inGame.png)
 
 2. En jeu
 
