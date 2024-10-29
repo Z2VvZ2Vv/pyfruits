@@ -29,7 +29,7 @@
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/pyFruits.git
+   git clone https://github.com/Z2VvZ2Vv/pyFruits.git
    
 2. Accédez au répertoire du projet :
    ````bash
